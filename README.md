@@ -1,6 +1,8 @@
 # Installation
 
+```
 npm i -g daily-pr
+```
 
 # Usage
 
